@@ -1,4 +1,4 @@
-# todos-csharp-web-template
+# todos-csharp-web
 Uma aplicação TODO em C# (web) com Minimal APIs, EFCore 6, MySQL e Pomelo
 
 ## OpenAPI (Swagger)
